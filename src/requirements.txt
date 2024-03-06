@@ -1,0 +1,6 @@
+audio2numpy==0.1.2
+matplotlib==3.7.0
+music21==8.1.0
+numpy==1.24.2
+scipy==1.10.1
+seaborn==0.12.2
